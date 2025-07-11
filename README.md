@@ -4,3 +4,5 @@ Source code for Floater, a 2D platformer videogame demo. Self-directed final pro
 - Final grade: **100%**
 
 ⏯️ [Watch a short playthrough of the demo on YouTube](https://youtu.be/wifr-MyAF-Y?si=1cpzBiZNONEaOEzy)
+
+<img width="500" height="500" alt="Fishfoot, the player character of Floater, in his standing position." title="Fishfoot, the player character of Floater, in his standing position." src="https://github.com/user-attachments/assets/aec78c48-ae61-4c1b-942f-5d41145d3b92" />
